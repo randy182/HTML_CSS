@@ -1,0 +1,6 @@
+selektor:psudo-class {
+    /* definisi properti di sini*/
+  }
+  a:hover {
+    color: green;
+  }
